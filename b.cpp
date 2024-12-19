@@ -6,6 +6,7 @@ int main()
     std::cout << "I am an ass man.\n";
     for(int i{0}; i < 10;i++){
         std::cout << "ratata\n";
+        std::cout << "laser\n";
     }
     return 0;
 }
