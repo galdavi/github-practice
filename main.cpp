@@ -9,5 +9,6 @@ int main()
         std::cout << "ratata\n";
         std::cout << "laser\n";
     }
+    std::cout << "Added etra fire\n";
     return 0;
 }
